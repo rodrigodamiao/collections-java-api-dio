@@ -1,4 +1,4 @@
-package catalogoDeLivros;
+package list.operacoesBasicas.catalogoDeLivros;
 
 
 import java.util.ArrayList;

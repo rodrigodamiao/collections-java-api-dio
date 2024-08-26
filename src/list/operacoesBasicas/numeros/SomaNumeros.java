@@ -1,4 +1,4 @@
-package numeros;
+package list.operacoesBasicas.numeros;
 
 import java.util.ArrayList;
 import java.util.List;
